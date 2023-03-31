@@ -1,0 +1,33 @@
+a .readmorehero{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+header{
+    background-color: #111827;
+}
+
+header a{
+    color: white;
+}
+
+header a span{
+    color: white;
+}
+
+.testnbtn{
+    color: white;
+    background-color: #161F33;
+}
+
+.testnbtn:hover{
+    color: white;
+    background-color: #1C273F;
+    transition: .7s ease;
+    border: 7px white;
+}
+
+.hero{
+    background-image: url(../images/herobg.jpeg);
+    background-size: cover;
+}
